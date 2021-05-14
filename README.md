@@ -10,4 +10,6 @@
 * https://www.usgs.gov/products/data-and-tools/science-datasets
 
 ## Liz
-* 
+* https://gis.data.ca.gov/datasets/CALFIRE-Forestry::california-high-hazard-zones-tier-1?geometry=-150.195%2C31.105%2C-90.473%2C43.306
+* https://gis.data.ca.gov/datasets/4fb94e78686d4932ac71bbe561e7cb9b_1/data?geometry=-150.190%2C31.090%2C-90.468%2C43.292
+* https://data.isric.org/geonetwork/srv/eng/catalog.search#/home
