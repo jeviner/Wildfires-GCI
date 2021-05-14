@@ -1,4 +1,4 @@
-# Wildfires-GCI
+# Wildfires-GCI Data Sets
 
 ## Wesley 
 * 
