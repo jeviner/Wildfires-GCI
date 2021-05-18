@@ -15,5 +15,5 @@
 * https://data.isric.org/geonetwork/srv/eng/catalog.search#/home
 
 ## Slade
-Slade passed on a link reccomendation from his arcGIS professor **Shenyue Jia**
+Slade passed on a link recommendation from his arcGIS professor **Shenyue Jia**
 * https://frap.fire.ca.gov/mapping/gis-data/
