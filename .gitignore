@@ -5,3 +5,6 @@
 *.shx
 .RData
 .Rhistory
+
+# Datasets
+Tracts_WUI_ByYear
